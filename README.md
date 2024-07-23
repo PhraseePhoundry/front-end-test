@@ -1,10 +1,10 @@
-# Phrasee Technical Test - Front End
+# Jacquard Technical Test - Front End
 
 This test should take overall no longer than 3 hours. Should you find yourself taking longer please submit what you have, with a note indicating how you would finish the task.
 
 Please clone this repository in order to work on it. 
 
-To submit, email our HR dept at peopleteam@phrasee.co please remember to include your name. Your email should include any notes that you may have for our consideration, along with either a zip file of your updated version of the application, or a link to a GitHub repository containing the updated application.
+To submit, email our HR dept at peopleteam@jacquard.com please remember to include your name. Your email should include any notes that you may have for our consideration, along with either a zip file of your updated version of the application, or a link to a GitHub repository containing the updated application.
 
 ## Task
 Your task is to develop a mini React application, consisting of a simple login form for a fictitious medical records app.
