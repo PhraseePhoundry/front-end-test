@@ -34,7 +34,7 @@ The patient page should look like the following image:
         - at least one number
         - at least one capital letter
 2.  Allow logging in based on the response from this API endpoint:
-    [https://run.mocky.io/v3/1c9c285d-7388-435c-a0ec-08b4e969b51d](https://b9beaf7f-ae90-4be9-a876-696d2c25d1c2.mock.pstmn.io/patients)
+    [https://b9beaf7f-ae90-4be9-a876-696d2c25d1c2.mock.pstmn.io/patients](https://b9beaf7f-ae90-4be9-a876-696d2c25d1c2.mock.pstmn.io/patients)
     The payload should be a JSON object of the form
     {
         "username": "test.user@phrasee.co",
